@@ -59,7 +59,7 @@ Critères pour adopter un nouveau langage
 ----------------------------------------
 
 
-Mais pour qu'un langage soit adopter plusieurs ingrédients sont nécessaires :
+Mais pour qu'un langage soit adopté plusieurs ingrédients sont nécessaires :
 
 * Un gage de pérennité ;
 * Facile à débogage (déverminage) ;
